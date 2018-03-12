@@ -1,0 +1,19 @@
+{
+  "name": "@excelmicro/eslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eslint-config.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": "^4.9.0"
+  },
+  "author": "Ani Channarasappa",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
